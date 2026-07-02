@@ -55,7 +55,7 @@ Um cronômetro digital interativo desenvolvido com HTML, CSS e JavaScript puro. 
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/AyrtonKarlosMarquesDeSena/STOPWATCH
+git clone https://github.com/AyrtonKarlosMarquesDeSena/STOPWATCH.git
 =======
 # STOPWATCH
 Cronômetro Interativo com JavaScript
