@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⏱️ Cronômetro Interativo
 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
@@ -55,3 +56,7 @@ Um cronômetro digital interativo desenvolvido com HTML, CSS e JavaScript puro. 
 1. **Clone o repositório**
 ```bash
 git clone https://github.com/AyrtonKarlosMarquesDeSena/STOPWATCH
+=======
+# STOPWATCH
+Cronômetro Interativo com JavaScript
+>>>>>>> 69187a56871bd3655aadb062c7abfe4d54c259d4
